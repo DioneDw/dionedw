@@ -11,13 +11,19 @@ Dione</a></h1>
 
 - 📄 Atualmente desenvolvendo projetos pessoais Front-end com a biblioteca React e React Native (versões Mobile), utilizando também o framework Laravel. Sempre aprimorando os conceitos HTML5 CSS3 e JS. Já em projetos acadêmicos tenho uma base em Java e Python com análise de dados e algoritmos.
 
-- 🤝 Aguardando o ingresso na área de desenvolvimento Front-end em uma empresa que me permita evoluir e aprender junto a equipe de desenvolvimento.
+- 🤝 Buscando oportunidade como desenvolvedor, atualmente possuo maior experiência com suporte e parâmetrização de sistemas integrados.
 
 - 🌱 Atualmente aprendendo muito com os cursos específicos das trilhas da <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>
 
 - 💬 Buscando sempre falar sobre **tecnologias e ferramentas** inovadoras. 
 
-- 📫 Você pode me encontrar através do e-mail: **dwill.dwe@gmail.com** 
+  <summary><b>💻 GitHub Status do Perfil</b></summary>
+  <br/>
+  <p align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dionedw&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dionedw" height="192px"/>
+  </p>
+
+- 📫 Você pode me encontrar através do e-mail: **dwill.dwe@gmail.com** ou pelas redes sociais: 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Me encontre aqui 🤝 </h3>
 
