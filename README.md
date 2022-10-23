@@ -1,6 +1,6 @@
 <h1 align="center">Olá Mundo, eu sou o <a href="https://github.com/DioneDw" target="blank">
 Dione</a></h1>
-<h3 align="center">Aprendendo cada dia mais o quão incrível é desenvolvimento Front-End e sempre ligado no mundo dos jogos!!! &#127470;&#127475</h3>
+<h3 align="center">Aprendendo cada dia mais o quão incrível é desenvolvimento fullstack e sempre ligado no mundo dos jogos!!! &#127470;&#127475</h3>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -9,11 +9,11 @@ Dione</a></h1>
 
 - 📝 Cursando Sistemas de Informação pela Faculdade Federal de Ouro Preto (<a href= https://icea.ufop.br/>ICEA</a> - Instituito de Ciências Exatas e Aplicadas).
 
-- 📄 Atualmente desenvolvendo projetos pessoais Front-end com a biblioteca React e React Native (versões Mobile), utilizando também o framework Laravel. Sempre aprimorando os conceitos HTML5 CSS3 e JS. Já em projetos acadêmicos tenho uma base em Java e Python com análise de dados e algoritmos.
+- 📄 Atualmente desenvolvendo projetos pessoais buscando aplicar conhecimentos no desenvolvimento Fullstack com a biblioteca React e React Native (versões Mobile), utilizando também o framework Laravel, Node.js e PHP. Sempre aprimorando os conceitos nas tecnologias mais demandas. Possuindo também uma base com as linguagens Python e Java, com projetos acadêmicos realizados em ambas.
 
-- 🤝 Buscando oportunidade como desenvolvedor, atualmente possuo maior experiência com suporte e parâmetrização de sistemas integrados.
+- 🤝 Buscando oportunidade como desenvolvedor fullstack, atualmente possuo maior experiência com suporte e parâmetrização de sistemas integrados.
 
-- 🌱 Atualmente aprendendo muito com os cursos específicos das trilhas da <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>
+- 🌱 Atualmente aprendendo muito com os cursos específicos das trilhas da <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a> e com diversos cursos de tecnologias específicas.
 
 - 💬 Buscando sempre falar sobre **tecnologias e ferramentas** inovadoras. 
 
