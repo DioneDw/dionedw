@@ -5,7 +5,7 @@ Dione</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Atualmente trabalhando na: <a href="https://https://plano.consulting/" target="blank">Plano Consultoria Empresarial</a> como Desenvolvedor Java/Javascript na equipe de Automação de Negócios (Business Automation).
+- 🔭 Atualmente trabalhando na: <a href="https://plano.consulting/" target="blank">Plano Consultoria Empresarial</a> como Desenvolvedor Java/Javascript na equipe de Automação de Negócios (Business Automation).
 
 - 🤝 No dia-a-dia aprimorando e aplicando meus conhecimentos em JAVA e Javascript em conjunto com a modelagem de processos em software BPMS para automação. Possuo familiaridade com suporte e parâmetrização de sistemas integrados em experiências profissionais anteriores.
 
