@@ -5,17 +5,17 @@ Dione</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Atualmente trabalhando na: <a href="https://www.hospitalmargarida.com.br" target="blank">Associação São Vicente de Paulo (Hospital Margarida)</a> como Assistênte de TI no Centro de Processamento de Dados.
+- 🔭 Atualmente trabalhando na: <a href="https://https://plano.consulting/" target="blank">Plano Consultoria Empresarial</a> como Desenvolvedor Java/Javascript na equipe de Automação de Negócios (Business Automation).
+
+- 🤝 No dia-a-dia aprimorando e aplicando meus conhecimentos em JAVA e Javascript em conjunto com a modelagem de processos em software BPMS para automação. Possuo familiaridade com suporte e parâmetrização de sistemas integrados em experiências profissionais anteriores.
 
 - 📝 Cursando Sistemas de Informação pela Faculdade Federal de Ouro Preto (<a href= https://icea.ufop.br/>ICEA</a> - Instituito de Ciências Exatas e Aplicadas).
 
-- 📄 Atualmente desenvolvendo projetos pessoais buscando aplicar conhecimentos no desenvolvimento Fullstack com a biblioteca React e React Native (versões Mobile), utilizando também o framework Laravel, Node.js e PHP. Sempre aprimorando os conceitos nas tecnologias mais demandas. Possuindo também uma base com as linguagens Python e Java, com projetos acadêmicos realizados em ambas.
+- 📄 Em projetos pessoais busco aplicar conhecimentos no desenvolvimento Fullstack com a biblioteca React e React Native (versões Mobile), utilizando também o framework Laravel, Node.js e PHP. Sempre aprimorando os conceitos nas tecnologias mais demandas. Possuindo também uma base com as linguagens Python e Java, com projetos acadêmicos realizados em ambas.
 
-- 🤝 Buscando oportunidade como desenvolvedor fullstack, atualmente possuo maior experiência com suporte e parâmetrização de sistemas integrados.
+- 🌱 Busco sempre aprender novas tecnologias com os cursos específicos das trilhas da <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a> e com diversos cursos de tecnologias específicas como Udemy.
 
-- 🌱 Atualmente aprendendo muito com os cursos específicos das trilhas da <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a> e com diversos cursos de tecnologias específicas.
-
-- 💬 Buscando sempre falar sobre **tecnologias e ferramentas** inovadoras. 
+- 💬 Gosto sempre de falar sobre **tecnologias e ferramentas** inovadoras. 
 
   <summary><b>💻 GitHub Status do Perfil</b></summary>
   <br/>
