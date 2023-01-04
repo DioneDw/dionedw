@@ -11,17 +11,21 @@ Dione</a></h1>
 
 - 📝 Cursando Sistemas de Informação pela Faculdade Federal de Ouro Preto (<a href= https://icea.ufop.br/>ICEA</a> - Instituito de Ciências Exatas e Aplicadas).
 
-- 📄 Em projetos pessoais busco aplicar conhecimentos no desenvolvimento Fullstack com a biblioteca React e React Native (versões Mobile), utilizando também o framework Laravel, Node.js e PHP. Sempre aprimorando os conceitos nas tecnologias mais demandas. Possuindo também uma base com as linguagens Python e Java, com projetos acadêmicos realizados em ambas.
+- 📄 Em projetos pessoais busco aplicar conhecimentos no desenvolvimento Fullstack, o foco é sempre melhorar e encarar novos desafios tanto com linguagens/ferramentas já consolidadas, quanto com novas tecnologias.
 
-- 🌱 Busco sempre aprender novas tecnologias com os cursos específicos das trilhas da <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a> e com diversos cursos de tecnologias específicas como Udemy.
+- 🌱 Realizando cursos constantemente para me certificar na área e aprimorar meus conhecimentos técnicos. Sempre que possível participo dos eventos que auxiliam muito e fortalecem a comunidade Dev de maneira geral.
 
 - 💬 Gosto sempre de falar sobre **tecnologias e ferramentas** inovadoras. 
 
   <summary><b>💻 GitHub Status do Perfil</b></summary>
-  <br/>
-  <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dionedw&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dionedw" height="192px"/>
-  </p>
+<div>
+  <a href="https://github.com/DioneDw">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioneDw&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/DioneDW">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DioneDw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
 - 📫 Você pode me encontrar através do e-mail: **dwill.dwe@gmail.com** ou pelas redes sociais: 
 
