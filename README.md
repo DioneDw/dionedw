@@ -9,7 +9,7 @@ Dione</a></h1>
 
 - 🤝 No dia-a-dia aprimorando e aplicando meus conhecimentos em JAVA e Javascript em conjunto com a modelagem de processos em software BPMS para automação. Possuo familiaridade com suporte e parâmetrização de sistemas integrados em experiências profissionais anteriores.
 
-- 📝 Cursando Sistemas de Informação pela Faculdade Federal de Ouro Preto (<a href= https://icea.ufop.br/>ICEA</a> - Instituito de Ciências Exatas e Aplicadas).
+- 📝 Bacharel em Sistemas de Informação pela Faculdade Federal de Ouro Preto (<a href= https://icea.ufop.br/>ICEA</a> - Instituito de Ciências Exatas e Aplicadas).
 
 - 📄 Em projetos pessoais busco aplicar conhecimentos no desenvolvimento Fullstack, o foco é sempre melhorar e encarar novos desafios tanto com linguagens/ferramentas já consolidadas, quanto com novas tecnologias.
 
